@@ -47,9 +47,9 @@
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/piumal-harshana-71b968302 target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/piumal-harshana-71b968302" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="mailto:piumal.bcc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
